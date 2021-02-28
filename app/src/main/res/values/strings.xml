@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">Easter Bunny</string>
+    <string name="description">Terraria Bunny</string>
+    <string name="game_over_screen">Game Over Screen</string>
+    <string name="game_over_text">Game Over!</string>
+    <string name="easter_egg_description">Easter Egg</string>
+
+    <!--MAIN PARK ITEMS & OUTCOMES-->
+
+    <!-- Spring Meadow items + outcomes-->
+    <string-array name="springmeadow_items">
+        <item name="big_oak_tree">Big Oak Tree</item>
+        <item name="babbling_brook">Babbling Brook</item>
+    </string-array>
+
+    <string-array name="springmeadow_outcome">
+        <item name="big_oak_tree_outcome">Find 2 eggs and 1 marshmallow peep!</item>
+        <item name="babbling_brook_outcome">Peek in the water and see the Easter Bunny’s Reflection!</item>
+    </string-array>
+
+
+    <!-- Aeryn's Overlook items + outcomes-->
+    <string-array name="aerynsoverlook_items">
+        <item name="garden_bench">Garden Bench</item>
+        <item name="butterfly_bush">Butterfly Bush</item>
+    </string-array>
+
+    <string-array name="aerynsoverlook_outcome">
+        <item name="big_oak_tree_outcome">Find 3 eggs and a chocolate bunny!</item>
+        <item name="babbling_brook_outcome">Find the Giant Golden Egg!</item>
+    </string-array>
+
+
+    <!-- Peaceful Pond items + outcomes-->
+    <string-array name="peacefulpond_item">
+        <item name="koi_pond">Koi Pond</item>
+        <item name="empty"></item>
+    </string-array>
+
+    <string-array name="peacefulpond_outcome">
+        <item name="koi_pond_outcome">One of the Koi sticks its head out of the water and sprays water all over you!</item>
+        <item name="empty"></item>
+    </string-array>
+
+
+    <!-- Raven's Tower items + outcomes-->
+    <string-array name="ravenstower_items">
+        <item name="flower_box">Flower Box</item>
+        <item name="telescope">Telescope</item>
+    </string-array>
+
+    <string-array name="ravenstower_outcome">
+        <item name="flower_box_outcome">Find a cute stuffed Easter Bunny!</item>
+        <item name="telescope_outcome">Find 5 chocolate eggs and a gold ring!</item>
+    </string-array>
+
+
+    <!-- Reading Nook items + outcomes-->
+    <string-array name="readingnook_items">
+        <item name="bench_cushion">Bench Cushion</item>
+        <item name="bookshelf">Bookshelf</item>
+    </string-array>
+
+    <string-array name="readingnook_outcome">
+        <item name="bench_cushion_outcome">Find a picture of you with the Easter bunny when you were 5 years old!</item>
+        <item name="bookshelf_outcome">Find 3 marshmallow peeps peeking from behind the books!</item>
+    </string-array>
+
+
+    <!--GARDEN ITEMS & OUTCOMES-->
+
+    <!-- Flowering Forest items + outcomes-->
+    <string-array name="floweringforest_items">
+        <item name="tree_swing">Tree Swing</item>
+        <item name="rainbow_tree">Rainbow Tree</item>
+    </string-array>
+
+    <string-array name="floweringforest_outcome">
+        <item name="tree_swing_outcome">Find a Flower Garland for your hair!</item>
+        <item name="rainbow_tree_outcome">See the Easter Bunny run behind the tree!</item>
+    </string-array>
+
+    <!-- Festive Falls items + outcomes-->
+    <string-array name="festivefalls_items">
+        <item name="mossy_rock">Mossy Rock</item>
+        <item name="clumpof_daisies">Clump of Daisies</item>
+    </string-array>
+
+    <string-array name="festivefalls_outcome">
+        <item name="mossy_rock_outcome">Find a dozen Cadbury Easter Egg candies!</item>
+        <item name="clumpof_daisies_outcome">Find some cute yellow chicks playing!</item>
+    </string-array>
+
+    <!-- Rose Garden items + outcomes-->
+    <string-array name="rosegarden_items">
+        <item name="red_star_rose_bush">Red Star Rose Bush</item>
+        <item name="pink_lady_rose_bush">Pink Lady Rose Bush</item>
+    </string-array>
+
+    <string-array name="rosegarden_outcome">
+        <item name="red_star_outcome">Find a remote control Easter Bunny airplane!</item>
+        <item name="pink_lady_outcome">Find an Easter Basket full of goodies!</item>
+    </string-array>
+
+    <!-- Butterfly Garden items + outcomes-->
+    <string-array name="butterflygarden_items">
+        <item name="milkweed_plant">Milkweed Plant</item>
+        <item name="fairy_statue">Fairy Statue</item>
+    </string-array>
+
+    <string-array name="butterflygarden_outcome">
+        <item name="milkweed_plant_outcome">See 5 beautiful Monarch butterflies, one of which lands on you!</item>
+        <item name="fairy_statue_outcome">Find 4 delicate, light blue eggs!</item>
+    </string-array>
+
+    <!-- Bunny Bridge item + outcome-->
+    <string-array name="bunnybridge_item">
+        <item name="top_of_the_bridge">Top of the Bridge</item>
+        <item name="empty"></item>
+    </string-array>
+
+    <string-array name="bunnybridge_outcome">
+        <item name="topof_thebridge_outcome">Get to take a picture with the Easter Bunny!</item>
+        <item name="empty"></item>
+    </string-array>
+</resources>
